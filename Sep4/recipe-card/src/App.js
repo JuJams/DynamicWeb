@@ -1,15 +1,12 @@
-// Declare our app component function which returns JSX
+// need to import first to use a component
+import RecipeCard from './components/RecipeCard'
+// declare our App component function which returns some JSX
 const App = () => {
-    return (
-        // We cannot have two divs as two siblings seperately
-        // we need to wrap them in one parent div
-        <>
-            <div> 
-                Hello <span>JSX</span>
-            </div>
-            <div>This is my first React App</div>
-        </>
-    );
-    }
+  return (
+    <>
+      <RecipeCard />
+    </>
+  )
+}
 
-export default App;
+export default App

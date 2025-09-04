@@ -3,9 +3,5 @@ body{
     font-weight: 100;
     font-style: italic;
     font-size: large;
-    background-color: lightpink;
-    color: darkblue;
-    margin: 40px;
-    padding: 20px;
-    border: 5px solid rgb(0, 0, 0);
+    background-color: #FBF3D5;
 }
