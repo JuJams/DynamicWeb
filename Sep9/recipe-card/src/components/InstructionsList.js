@@ -1,0 +1,15 @@
+import './RecipeCard.css';
+
+const InstructionsList = (props) => {
+    const{data} = props
+    return <div className = "instructions_list">
+        <h3 className = "list_title">Instructions</h3>
+        <ul>{data.map((item, index) =>{
+            return( <li key={index} className = "list_item">
+                {item}
+        </li>)})}
+
+        </ul>
+    </div>
+}
+export default InstructionsList;
