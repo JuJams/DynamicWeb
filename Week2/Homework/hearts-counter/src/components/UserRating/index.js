@@ -1,5 +1,6 @@
 import {useState} from 'react'
 import {ReactComponent as Favorite} from '@material-design-icons/svg/filled/favorite.svg'
+// 2. Imported the styles for the UserRating component
 import './index.css'
 
 export const UserRating = () => {

@@ -1,3 +1,4 @@
+// 3. Added the header wrapper
 import RecipeCard from './components/RecipeCard'
 
 const App = () => {
