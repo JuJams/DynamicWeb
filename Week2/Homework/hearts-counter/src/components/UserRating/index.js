@@ -6,7 +6,7 @@ export const UserRating = () => {
 
   const handlePlusClick = () => {
     if (count >= 5) {
-      return
+      return 
     }
     setCount(count + 1)
   }
@@ -18,9 +18,20 @@ export const UserRating = () => {
     setCount(count - 1)
   }
 
+  let minusButton = null
+  let plusButton = null
+
+  if (count > 0) {
+    minusButton = <button onClick={handleMinusClick}>[-]</button>
+  }
+
+  if (count < 5) {
+    plusButton = <button onClick={handlePlusClick}>[+]</button>
+  }
+
   return (
     <div>
-      <button onClick={handleMinusClick}>[-]</button>
+      {minusButton}
       {[...Array(count)].map((i, index) => {
         return (
           <span key={index}>
@@ -28,8 +39,7 @@ export const UserRating = () => {
           </span>
         )
       })}
-      {/* https://legacy.reactjs.org/docs/conditional-rendering.html */}
-      <button onClick={handlePlusClick}>[+]</button>
+      {plusButton}
     </div>
   )
 }
