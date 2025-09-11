@@ -1,0 +1,39 @@
+.row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 0 28px; 
+}
+
+.btn {
+  width: 28px;
+  height: 28px;
+  border: 1px solid #cbd5e0;
+  background: #fff;
+  color: #000000;
+  border-radius: 6px;
+  line-height: 1;
+  font-weight: 600;
+}
+
+.row svg {
+  width: 24px;
+  height: 24px;
+  fill: #e11d48;
+}
+
+.btn:hover {
+  background: #ff8b8b;
+  border-color: #a0aec0;
+}
+
+.btn:active {
+  background: #edf2f7;
+}
+
+.btn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+

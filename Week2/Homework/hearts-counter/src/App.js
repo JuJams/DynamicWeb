@@ -3,7 +3,12 @@ import RecipeCard from './components/RecipeCard'
 const App = () => {
   return (
     <div>
-      <RecipeCard />
+      <header className="app-header">
+        <h1>Hearts Counter</h1>
+      </header>
+      <main className="app-container">
+        <RecipeCard />
+      </main>
     </div>
   )
 }
