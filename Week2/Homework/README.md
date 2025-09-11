@@ -39,7 +39,7 @@ Files changed
 - `hearts-counter/src/components/UserRating/index.js` — conditional rendering for +/- and added class names.
 - `hearts-counter/src/components/UserRating/index.css` — simple styles for row, hearts, and styled buttons.
 - `hearts-counter/src/components/RecipeCard/index.js` — moved `<UserRating />` above the title; removed old instance.
-- `hearts-counter/src/components/RecipeCard/RecipeCard.css` — centered the card (`margin: 1rem auto`).
+- `hearts-counter/src/components/RecipeCard/RecipeCard.css` — centered the card (`margin: 1rem auto`), and header
 - `hearts-counter/src/App.js` — added header and wrapper structure.
 - `hearts-counter/src/global.css` — header and container styles; centered header title.
 

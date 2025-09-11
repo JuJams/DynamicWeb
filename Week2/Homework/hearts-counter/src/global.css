@@ -16,6 +16,8 @@ body {
   text-align: center;
 }
 
+/* 3. Added the styles for the app-header*/
+
 .app-header h1 {
   margin: 0;
   font-size: 20px;
