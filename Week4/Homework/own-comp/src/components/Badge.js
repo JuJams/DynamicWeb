@@ -1,11 +1,5 @@
 import PropTypes from 'prop-types'
 
-// Simple reusable Badge component
-// Props:
-// - label: text to show
-// - color: background color (e.g., '#e11d48' or 'purple')
-// - outline: draws an outline instead of solid fill
-// - rounded: pill style when true
 const Badge = (props) => {
   const {label, color = '#3b82f6', outline = false, rounded = false} = props
 
