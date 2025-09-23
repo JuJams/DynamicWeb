@@ -1,0 +1,3 @@
+## Week 4 HW
+- This was given under Week 3 so the homework is on the Week4 folder
+- *Make your own reusable component in the components/ folder and a page that demos usage in the pages/ folder. If you are having a hard time coming up with ideas take a look at Bootstrap or some other framework for ideas.*
