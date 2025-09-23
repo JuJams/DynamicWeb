@@ -1,8 +1,9 @@
 // import ButtonPage from './pages/ButtonPage'
-import AccordionPage from './pages/AccordionPage'
+// import AccordionPage from './pages/AccordionPage'
+import BadgePage from './pages/BadgePage'
 
 const App = () => {
-  return <AccordionPage />
+  return <BadgePage />
 }
 
 export default App
