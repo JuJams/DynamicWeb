@@ -1,0 +1,1 @@
+# No class attended and took an excused absence as I had the flu but completed the homework for the week

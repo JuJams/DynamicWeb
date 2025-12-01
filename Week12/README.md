@@ -1,0 +1,1 @@
+# Presnted the final proposal and the only homework is to work on the final and use concepts learnt post midterm
