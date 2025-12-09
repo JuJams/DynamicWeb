@@ -1,0 +1,120 @@
+{
+  "books": [
+    {
+      "status": "currently-reading",
+      "id": 3
+    },
+    {
+      "title": "Ugly Love",
+      "author": "Colleen Hoover",
+      "authors": [
+        "Colleen Hoover"
+      ],
+      "isbn": null,
+      "coverId": 12856728,
+      "coverUrl": "https://covers.openlibrary.org/b/id/12856728-L.jpg",
+      "firstPublishYear": 2014,
+      "genre": null,
+      "genres": [],
+      "key": "/works/OL20577143W",
+      "status": "want-to-read",
+      "notes": "",
+      "dateAdded": "2025-12-08T04:02:17.482Z",
+      "id": 4
+    },
+    {
+      "status": "currently-reading",
+      "id": 5
+    },
+    {
+      "title": "Harry Potter and the Order of the Phoenix",
+      "author": "J.K. Rowling",
+      "authors": [
+        "J.K. Rowling"
+      ],
+      "isbn": null,
+      "coverId": 10523466,
+      "coverUrl": "https://covers.openlibrary.org/b/id/10523466-L.jpg",
+      "firstPublishYear": 2003,
+      "genre": null,
+      "genres": [],
+      "key": "/works/OL82548W",
+      "status": "want-to-read",
+      "notes": "",
+      "dateAdded": "2025-12-08T22:18:36.182Z",
+      "id": 6
+    },
+    {
+      "title": "Ugly Love",
+      "author": "Colleen Hoover",
+      "authors": [
+        "Colleen Hoover"
+      ],
+      "isbn": null,
+      "coverId": 12856728,
+      "coverUrl": "https://covers.openlibrary.org/b/id/12856728-L.jpg",
+      "firstPublishYear": 2014,
+      "genre": null,
+      "genres": [],
+      "key": "/works/OL20577143W",
+      "status": "want-to-read",
+      "notes": "",
+      "dateAdded": "2025-12-08T22:34:31.025Z",
+      "id": 7
+    },
+    {
+      "title": "Ugly Love",
+      "author": "Colleen Hoover",
+      "authors": [
+        "Colleen Hoover"
+      ],
+      "isbn": null,
+      "coverId": 12856728,
+      "coverUrl": "https://covers.openlibrary.org/b/id/12856728-L.jpg",
+      "firstPublishYear": 2014,
+      "genre": null,
+      "genres": [],
+      "key": "/works/OL20577143W",
+      "status": "want-to-read",
+      "notes": "",
+      "id": 1765233433293,
+      "dateAdded": "2025-12-08T22:37:13.293Z"
+    },
+    {
+      "title": "Ugly Love",
+      "author": "Colleen Hoover",
+      "authors": [
+        "Colleen Hoover"
+      ],
+      "isbn": null,
+      "coverId": 12856728,
+      "coverUrl": "https://covers.openlibrary.org/b/id/12856728-L.jpg",
+      "firstPublishYear": 2014,
+      "genre": null,
+      "genres": [],
+      "key": "/works/OL20577143W",
+      "status": "want-to-read",
+      "notes": "",
+      "id": 1765233645777,
+      "dateAdded": "2025-12-08T22:40:45.777Z"
+    },
+    {
+      "title": "Twisted Love",
+      "author": "Ana Huang",
+      "authors": [
+        "Ana Huang"
+      ],
+      "isbn": null,
+      "coverId": 12940491,
+      "coverUrl": "https://covers.openlibrary.org/b/id/12940491-L.jpg",
+      "firstPublishYear": 2021,
+      "genre": null,
+      "genres": [],
+      "key": "/works/OL24390422W",
+      "status": "want-to-read",
+      "notes": "",
+      "id": 1765233734243,
+      "dateAdded": "2025-12-08T22:42:14.243Z"
+    }
+  ]
+}

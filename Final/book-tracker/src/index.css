@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: 'Gaegu', cursive;
+}
+
+body {
+  margin: 0;
+  font-family: 'Gaegu', cursive;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: 'Gaegu', cursive;
+}
+
+input[type="text"] {
+  color: #000000 !important;
+}
+
+input[type="text"]::placeholder {
+  color: #8B6F5E !important;
+  opacity: 0.7;
+}
